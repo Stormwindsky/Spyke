@@ -1,4 +1,4 @@
-## 1 NOTICE: Legal Information & Credits
+## NOTICE: Legal Information & Credits
 1. Project License (Source Code)
 
 The source code created for Spyke is dedicated to the public domain under the Creative Commons Zero (CC0 1.0 Universal) license.
