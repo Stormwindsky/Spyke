@@ -14,6 +14,10 @@ Because it was more of a test project with AI, I felt it deserved to be under a 
 
 https://github.com/Stormwindsky/Kits-List
 
+## Legal Information & Credits:
+
+https://github.com/Stormwindsky/Spyke/blob/main/NOTICE.md
+
 
 ## Legal Notice & Credits
 
